@@ -1,0 +1,35 @@
+_______________
+PID: 1
+Module name: ntdll.dll
+Module path: C:\WINDOWS\SYSTEM32\ntdll.dll
+Module size:  2064384
+_______________
+PID: 1
+Module name: KERNEL32.DLL
+Module path: C:\WINDOWS\System32\KERNEL32.DLL
+Module size:  774144
+_______________
+PID: 1
+Module name: KERNELBASE.dll
+Module path: C:\WINDOWS\System32\KERNELBASE.dll
+Module size:  3104768
+_______________
+PID: 1
+Module name: ucrtbase.dll
+Module path: C:\WINDOWS\System32\ucrtbase.dll
+Module size:  1048576
+_______________
+PID: 1
+Module name: libstdc++-6.dll
+Module path: C:\ProgramData\mingw64\mingw64\bin\libstdc++-6.dll
+Module size:  2273280
+_______________
+PID: 1
+Module name: libgcc_s_seh-1.dll
+Module path: C:\ProgramData\mingw64\mingw64\bin\libgcc_s_seh-1.dll
+Module size:  139264
+_______________
+PID: 1
+Module name: libwinpthread-1.dll
+Module path: C:\ProgramData\mingw64\mingw64\bin\libwinpthread-1.dll
+Module size:  94208

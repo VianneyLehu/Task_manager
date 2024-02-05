@@ -1,0 +1,1280 @@
+___
+PID: 4
+Process name: System
+Threads: 248
+Parent PID: 0
+___
+PID: 88
+Process name: Secure System
+Threads: 0
+Parent PID: 4
+___
+PID: 156
+Process name: Registry
+Threads: 4
+Parent PID: 4
+___
+PID: 524
+Process name: smss.exe
+Threads: 2
+Parent PID: 4
+___
+PID: 832
+Process name: csrss.exe
+Threads: 13
+Parent PID: 820
+___
+PID: 920
+Process name: wininit.exe
+Threads: 1
+Parent PID: 820
+___
+PID: 988
+Process name: services.exe
+Threads: 6
+Parent PID: 920
+___
+PID: 1008
+Process name: LsaIso.exe
+Threads: 1
+Parent PID: 920
+___
+PID: 1016
+Process name: lsass.exe
+Threads: 9
+Parent PID: 920
+___
+PID: 652
+Process name: svchost.exe
+Threads: 24
+Parent PID: 988
+___
+PID: 1052
+Process name: fontdrvhost.exe
+Threads: 5
+Parent PID: 920
+___
+PID: 1208
+Process name: svchost.exe
+Threads: 11
+Parent PID: 988
+___
+PID: 1260
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 1496
+Process name: svchost.exe
+Threads: 1
+Parent PID: 988
+___
+PID: 1560
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 1572
+Process name: svchost.exe
+Threads: 1
+Parent PID: 988
+___
+PID: 1648
+Process name: svchost.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 1688
+Process name: svchost.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 1712
+Process name: svchost.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 1740
+Process name: svchost.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 1864
+Process name: svchost.exe
+Threads: 1
+Parent PID: 988
+___
+PID: 1908
+Process name: svchost.exe
+Threads: 5
+Parent PID: 988
+___
+PID: 1936
+Process name: svchost.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 1948
+Process name: svchost.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 1224
+Process name: WUDFHost.exe
+Threads: 6
+Parent PID: 988
+___
+PID: 1808
+Process name: svchost.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 2132
+Process name: svchost.exe
+Threads: 17
+Parent PID: 988
+___
+PID: 2140
+Process name: svchost.exe
+Threads: 5
+Parent PID: 988
+___
+PID: 2280
+Process name: vmms.exe
+Threads: 12
+Parent PID: 988
+___
+PID: 2304
+Process name: svchost.exe
+Threads: 6
+Parent PID: 988
+___
+PID: 2420
+Process name: svchost.exe
+Threads: 1
+Parent PID: 988
+___
+PID: 2556
+Process name: NVDisplay.Container.exe
+Threads: 8
+Parent PID: 988
+___
+PID: 2708
+Process name: svchost.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 2764
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 2784
+Process name: svchost.exe
+Threads: 10
+Parent PID: 988
+___
+PID: 2856
+Process name: svchost.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 2864
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 2872
+Process name: svchost.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 2968
+Process name: svchost.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 2976
+Process name: svchost.exe
+Threads: 5
+Parent PID: 988
+___
+PID: 3056
+Process name: Memory Compression
+Threads: 82
+Parent PID: 4
+___
+PID: 1308
+Process name: svchost.exe
+Threads: 1
+Parent PID: 988
+___
+PID: 3152
+Process name: svchost.exe
+Threads: 11
+Parent PID: 988
+___
+PID: 3240
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 3516
+Process name: vmcompute.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 3540
+Process name: svchost.exe
+Threads: 11
+Parent PID: 988
+___
+PID: 3580
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 3588
+Process name: svchost.exe
+Threads: 6
+Parent PID: 988
+___
+PID: 3816
+Process name: svchost.exe
+Threads: 5
+Parent PID: 988
+___
+PID: 3944
+Process name: WmiPrvSE.exe
+Threads: 7
+Parent PID: 652
+___
+PID: 3992
+Process name: svchost.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 4156
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 4200
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 4468
+Process name: spoolsv.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 4596
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 4788
+Process name: svchost.exe
+Threads: 6
+Parent PID: 988
+___
+PID: 4780
+Process name: svchost.exe
+Threads: 17
+Parent PID: 988
+___
+PID: 4796
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 4804
+Process name: svchost.exe
+Threads: 10
+Parent PID: 988
+___
+PID: 4812
+Process name: svchost.exe
+Threads: 1
+Parent PID: 988
+___
+PID: 4828
+Process name: GigabyteUpdateService.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 4824
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 4868
+Process name: svchost.exe
+Threads: 5
+Parent PID: 988
+___
+PID: 5028
+Process name: vmware-authd.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 5060
+Process name: vmnetdhcp.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 5068
+Process name: vmware-usbarbitrator64.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 5080
+Process name: RtkAudUService64.exe
+Threads: 11
+Parent PID: 988
+___
+PID: 5092
+Process name: nvcontainer.exe
+Threads: 36
+Parent PID: 988
+___
+PID: 5112
+Process name: vmnat.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 3908
+Process name: MsMpEng.exe
+Threads: 51
+Parent PID: 988
+___
+PID: 4268
+Process name: lghub_updater.exe
+Threads: 44
+Parent PID: 988
+___
+PID: 2068
+Process name: wslservice.exe
+Threads: 6
+Parent PID: 988
+___
+PID: 5172
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 5188
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 5348
+Process name: svchost.exe
+Threads: 6
+Parent PID: 988
+___
+PID: 5444
+Process name: svchost.exe
+Threads: 11
+Parent PID: 988
+___
+PID: 5584
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 3508
+Process name: svchost.exe
+Threads: 8
+Parent PID: 988
+___
+PID: 7092
+Process name: SearchIndexer.exe
+Threads: 17
+Parent PID: 988
+___
+PID: 7752
+Process name: svchost.exe
+Threads: 6
+Parent PID: 988
+___
+PID: 9644
+Process name: NisSrv.exe
+Threads: 5
+Parent PID: 988
+___
+PID: 10056
+Process name: svchost.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 10840
+Process name: svchost.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 10932
+Process name: GoogleCrashHandler.exe
+Threads: 3
+Parent PID: 4432
+___
+PID: 10940
+Process name: GoogleCrashHandler64.exe
+Threads: 3
+Parent PID: 4432
+___
+PID: 4448
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 12572
+Process name: SecurityHealthService.exe
+Threads: 36
+Parent PID: 988
+___
+PID: 14696
+Process name: svchost.exe
+Threads: 1
+Parent PID: 988
+___
+PID: 11080
+Process name: svchost.exe
+Threads: 1
+Parent PID: 988
+___
+PID: 9160
+Process name: svchost.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 11436
+Process name: dllhost.exe
+Threads: 4
+Parent PID: 652
+___
+PID: 7440
+Process name: svchost.exe
+Threads: 7
+Parent PID: 988
+___
+PID: 7272
+Process name: SgrmBroker.exe
+Threads: 8
+Parent PID: 988
+___
+PID: 14868
+Process name: svchost.exe
+Threads: 8
+Parent PID: 988
+___
+PID: 9128
+Process name: svchost.exe
+Threads: 5
+Parent PID: 988
+___
+PID: 1900
+Process name: svchost.exe
+Threads: 1
+Parent PID: 988
+___
+PID: 2904
+Process name: svchost.exe
+Threads: 5
+Parent PID: 988
+___
+PID: 15060
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 4552
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 21216
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 18140
+Process name: MoUsoCoreWorker.exe
+Threads: 5
+Parent PID: 652
+___
+PID: 17144
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 13176
+Process name: svchost.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 25596
+Process name: audiodg.exe
+Threads: 8
+Parent PID: 3540
+___
+PID: 8532
+Process name: csrss.exe
+Threads: 14
+Parent PID: 27532
+___
+PID: 9444
+Process name: winlogon.exe
+Threads: 6
+Parent PID: 27532
+___
+PID: 12828
+Process name: fontdrvhost.exe
+Threads: 5
+Parent PID: 9444
+___
+PID: 7120
+Process name: dwm.exe
+Threads: 27
+Parent PID: 9444
+___
+PID: 19100
+Process name: NVDisplay.Container.exe
+Threads: 45
+Parent PID: 2556
+___
+PID: 24312
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 4764
+Process name: svchost.exe
+Threads: 10
+Parent PID: 988
+___
+PID: 25696
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 23452
+Process name: ctfmon.exe
+Threads: 11
+Parent PID: 5584
+___
+PID: 10520
+Process name: sihost.exe
+Threads: 9
+Parent PID: 1908
+___
+PID: 23320
+Process name: taskhostw.exe
+Threads: 8
+Parent PID: 1688
+___
+PID: 14864
+Process name: nvcontainer.exe
+Threads: 18
+Parent PID: 5092
+___
+PID: 17884
+Process name: nvcontainer.exe
+Threads: 31
+Parent PID: 5092
+___
+PID: 27056
+Process name: svchost.exe
+Threads: 6
+Parent PID: 988
+___
+PID: 18012
+Process name: NVIDIA Web Helper.exe
+Threads: 92
+Parent PID: 24060
+___
+PID: 23776
+Process name: conhost.exe
+Threads: 2
+Parent PID: 18012
+___
+PID: 23972
+Process name: RuntimeBroker.exe
+Threads: 1
+Parent PID: 652
+___
+PID: 20044
+Process name: RuntimeBroker.exe
+Threads: 10
+Parent PID: 652
+___
+PID: 7016
+Process name: nvsphelper64.exe
+Threads: 5
+Parent PID: 5092
+___
+PID: 6428
+Process name: NVIDIA Share.exe
+Threads: 71
+Parent PID: 14864
+___
+PID: 10328
+Process name: NVIDIA Share.exe
+Threads: 50
+Parent PID: 6428
+___
+PID: 7216
+Process name: NVIDIA Share.exe
+Threads: 16
+Parent PID: 6428
+___
+PID: 12260
+Process name: RuntimeBroker.exe
+Threads: 4
+Parent PID: 652
+___
+PID: 4028
+Process name: PhoneExperienceHost.exe
+Threads: 29
+Parent PID: 652
+___
+PID: 19436
+Process name: RuntimeBroker.exe
+Threads: 1
+Parent PID: 652
+___
+PID: 12584
+Process name: SecurityHealthSystray.exe
+Threads: 1
+Parent PID: 9212
+___
+PID: 12300
+Process name: RtkAudUService64.exe
+Threads: 6
+Parent PID: 9212
+___
+PID: 22272
+Process name: lghub_system_tray.exe
+Threads: 48
+Parent PID: 9212
+___
+PID: 21676
+Process name: lghub_agent.exe
+Threads: 103
+Parent PID: 22272
+___
+PID: 8304
+Process name: explorer.exe
+Threads: 208
+Parent PID: 9444
+___
+PID: 22396
+Process name: Overwolf.exe
+Threads: 81
+Parent PID: 9776
+___
+PID: 6972
+Process name: StartMenuExperienceHost.exe
+Threads: 21
+Parent PID: 652
+___
+PID: 8092
+Process name: TextInputHost.exe
+Threads: 23
+Parent PID: 652
+___
+PID: 15044
+Process name: SearchApp.exe
+Threads: 98
+Parent PID: 652
+___
+PID: 16556
+Process name: unsecapp.exe
+Threads: 3
+Parent PID: 652
+___
+PID: 6760
+Process name: OverwolfBrowser.exe
+Threads: 9
+Parent PID: 22396
+___
+PID: 21180
+Process name: OverwolfBrowser.exe
+Threads: 73
+Parent PID: 22396
+___
+PID: 10564
+Process name: OverwolfBrowser.exe
+Threads: 13
+Parent PID: 22396
+___
+PID: 22548
+Process name: OverwolfHelper.exe
+Threads: 9
+Parent PID: 22396
+___
+PID: 1352
+Process name: OverwolfBrowser.exe
+Threads: 10
+Parent PID: 22396
+___
+PID: 19092
+Process name: OverwolfHelper64.exe
+Threads: 8
+Parent PID: 22396
+___
+PID: 24720
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 16092
+Process name: taskhostw.exe
+Threads: 4
+Parent PID: 1688
+___
+PID: 11816
+Process name: ShellExperienceHost.exe
+Threads: 30
+Parent PID: 652
+___
+PID: 27144
+Process name: RuntimeBroker.exe
+Threads: 3
+Parent PID: 652
+___
+PID: 7512
+Process name: dllhost.exe
+Threads: 5
+Parent PID: 652
+___
+PID: 3812
+Process name: RiotClientServices.exe
+Threads: 76
+Parent PID: 24808
+___
+PID: 26712
+Process name: RiotClientCrashHandler.exe
+Threads: 6
+Parent PID: 3812
+___
+PID: 11548
+Process name: LeagueClient.exe
+Threads: 64
+Parent PID: 3812
+___
+PID: 14832
+Process name: LeagueCrashHandler64.exe
+Threads: 6
+Parent PID: 11548
+___
+PID: 25164
+Process name: LeagueClientUx.exe
+Threads: 30
+Parent PID: 11548
+___
+PID: 8260
+Process name: LeagueClientUxRender.exe
+Threads: 55
+Parent PID: 25164
+___
+PID: 21696
+Process name: LeagueClientUxRender.exe
+Threads: 9
+Parent PID: 25164
+___
+PID: 27232
+Process name: LeagueClientUxRender.exe
+Threads: 43
+Parent PID: 25164
+___
+PID: 18720
+Process name: LeagueClientUxRender.exe
+Threads: 11
+Parent PID: 25164
+___
+PID: 22704
+Process name: OverwolfBrowser.exe
+Threads: 24
+Parent PID: 22396
+___
+PID: 20712
+Process name: SearchApp.exe
+Threads: 25
+Parent PID: 652
+___
+PID: 3316
+Process name: msedgewebview2.exe
+Threads: 47
+Parent PID: 20712
+___
+PID: 764
+Process name: msedgewebview2.exe
+Threads: 11
+Parent PID: 3316
+___
+PID: 25204
+Process name: msedgewebview2.exe
+Threads: 58
+Parent PID: 3316
+___
+PID: 17824
+Process name: msedgewebview2.exe
+Threads: 20
+Parent PID: 3316
+___
+PID: 26144
+Process name: msedgewebview2.exe
+Threads: 9
+Parent PID: 3316
+___
+PID: 6356
+Process name: msedgewebview2.exe
+Threads: 26
+Parent PID: 3316
+___
+PID: 20744
+Process name: UserOOBEBroker.exe
+Threads: 4
+Parent PID: 652
+___
+PID: 9096
+Process name: OverwolfBrowser.exe
+Threads: 11
+Parent PID: 22396
+___
+PID: 12048
+Process name: CompPkgSrv.exe
+Threads: 1
+Parent PID: 652
+___
+PID: 23004
+Process name: rundll32.exe
+Threads: 1
+Parent PID: 8304
+___
+PID: 13276
+Process name: SystemSettings.exe
+Threads: 35
+Parent PID: 652
+___
+PID: 10512
+Process name: ApplicationFrameHost.exe
+Threads: 4
+Parent PID: 652
+___
+PID: 27272
+Process name: Microsoft.Media.Player.exe
+Threads: 29
+Parent PID: 652
+___
+PID: 17688
+Process name: RuntimeBroker.exe
+Threads: 8
+Parent PID: 652
+___
+PID: 15552
+Process name: HxOutlook.exe
+Threads: 44
+Parent PID: 652
+___
+PID: 9728
+Process name: RuntimeBroker.exe
+Threads: 1
+Parent PID: 652
+___
+PID: 19940
+Process name: HxTsr.exe
+Threads: 13
+Parent PID: 652
+___
+PID: 8996
+Process name: HxAccounts.exe
+Threads: 28
+Parent PID: 652
+___
+PID: 19868
+Process name: Video.UI.exe
+Threads: 28
+Parent PID: 652
+___
+PID: 25224
+Process name: RuntimeBroker.exe
+Threads: 1
+Parent PID: 652
+___
+PID: 23256
+Process name: lghub.exe
+Threads: 28
+Parent PID: 22272
+___
+PID: 24212
+Process name: lghub.exe
+Threads: 7
+Parent PID: 23256
+___
+PID: 13412
+Process name: lghub.exe
+Threads: 53
+Parent PID: 23256
+___
+PID: 6752
+Process name: lghub.exe
+Threads: 9
+Parent PID: 23256
+___
+PID: 1960
+Process name: lghub.exe
+Threads: 17
+Parent PID: 23256
+___
+PID: 4532
+Process name: Code.exe
+Threads: 47
+Parent PID: 12260
+___
+PID: 12676
+Process name: Code.exe
+Threads: 7
+Parent PID: 4532
+___
+PID: 17260
+Process name: Code.exe
+Threads: 59
+Parent PID: 4532
+___
+PID: 21884
+Process name: Code.exe
+Threads: 15
+Parent PID: 4532
+___
+PID: 26948
+Process name: Code.exe
+Threads: 26
+Parent PID: 4532
+___
+PID: 25756
+Process name: Code.exe
+Threads: 20
+Parent PID: 4532
+___
+PID: 15200
+Process name: Code.exe
+Threads: 20
+Parent PID: 4532
+___
+PID: 10532
+Process name: Code.exe
+Threads: 18
+Parent PID: 4532
+___
+PID: 15928
+Process name: Code.exe
+Threads: 19
+Parent PID: 4532
+___
+PID: 13564
+Process name: conhost.exe
+Threads: 5
+Parent PID: 25756
+___
+PID: 3876
+Process name: cpptools.exe
+Threads: 25
+Parent PID: 15200
+___
+PID: 12336
+Process name: powershell.exe
+Threads: 14
+Parent PID: 25756
+___
+PID: 19428
+Process name: conhost.exe
+Threads: 2
+Parent PID: 3876
+___
+PID: 21652
+Process name: cpptools.exe
+Threads: 1
+Parent PID: 3876
+___
+PID: 23680
+Process name: Discord.exe
+Threads: 36
+Parent PID: 7048
+___
+PID: 24784
+Process name: Discord.exe
+Threads: 7
+Parent PID: 23680
+___
+PID: 23576
+Process name: Discord.exe
+Threads: 22
+Parent PID: 23680
+___
+PID: 26728
+Process name: Discord.exe
+Threads: 10
+Parent PID: 23680
+___
+PID: 19608
+Process name: Discord.exe
+Threads: 98
+Parent PID: 23680
+___
+PID: 21184
+Process name: Discord.exe
+Threads: 6
+Parent PID: 23680
+___
+PID: 11656
+Process name: Code.exe
+Threads: 8
+Parent PID: 15200
+___
+PID: 27224
+Process name: cpptools-srv.exe
+Threads: 22
+Parent PID: 21652
+___
+PID: 23668
+Process name: conhost.exe
+Threads: 2
+Parent PID: 27224
+___
+PID: 17536
+Process name: cpptools-srv.exe
+Threads: 23
+Parent PID: 21652
+___
+PID: 25936
+Process name: conhost.exe
+Threads: 2
+Parent PID: 17536
+___
+PID: 9020
+Process name: msedge.exe
+Threads: 47
+Parent PID: 6968
+___
+PID: 1964
+Process name: msedge.exe
+Threads: 7
+Parent PID: 9020
+___
+PID: 16096
+Process name: msedge.exe
+Threads: 27
+Parent PID: 9020
+___
+PID: 19316
+Process name: msedge.exe
+Threads: 21
+Parent PID: 9020
+___
+PID: 14636
+Process name: msedge.exe
+Threads: 10
+Parent PID: 9020
+___
+PID: 9268
+Process name: msedge.exe
+Threads: 25
+Parent PID: 9020
+___
+PID: 22464
+Process name: msedge.exe
+Threads: 15
+Parent PID: 9020
+___
+PID: 19832
+Process name: chrome.exe
+Threads: 39
+Parent PID: 8304
+___
+PID: 22236
+Process name: chrome.exe
+Threads: 7
+Parent PID: 19832
+___
+PID: 11064
+Process name: chrome.exe
+Threads: 59
+Parent PID: 19832
+___
+PID: 7792
+Process name: chrome.exe
+Threads: 19
+Parent PID: 19832
+___
+PID: 17016
+Process name: chrome.exe
+Threads: 10
+Parent PID: 19832
+___
+PID: 4960
+Process name: chrome.exe
+Threads: 24
+Parent PID: 19832
+___
+PID: 4460
+Process name: chrome.exe
+Threads: 25
+Parent PID: 19832
+___
+PID: 22224
+Process name: chrome.exe
+Threads: 26
+Parent PID: 19832
+___
+PID: 19764
+Process name: chrome.exe
+Threads: 26
+Parent PID: 19832
+___
+PID: 24348
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 18268
+Process name: LeagueClientUxRender.exe
+Threads: 17
+Parent PID: 25164
+___
+PID: 5016
+Process name: chrome.exe
+Threads: 9
+Parent PID: 19832
+___
+PID: 12392
+Process name: chrome.exe
+Threads: 24
+Parent PID: 19832
+___
+PID: 10272
+Process name: Outplayed.exe
+Threads: 23
+Parent PID: 22396
+___
+PID: 17460
+Process name: svchost.exe
+Threads: 2
+Parent PID: 988
+___
+PID: 16244
+Process name: smartscreen.exe
+Threads: 8
+Parent PID: 652
+___
+PID: 18396
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 19808
+Process name: svchost.exe
+Threads: 4
+Parent PID: 988
+___
+PID: 22684
+Process name: svchost.exe
+Threads: 3
+Parent PID: 988
+___
+PID: 10632
+Process name: chrome.exe
+Threads: 8
+Parent PID: 19832
+___
+PID: 18972
+Process name: chrome.exe
+Threads: 23
+Parent PID: 19832
+___
+PID: 22244
+Process name: chrome.exe
+Threads: 22
+Parent PID: 19832
+___
+PID: 4368
+Process name: chrome.exe
+Threads: 20
+Parent PID: 19832
+___
+PID: 23616
+Process name: chrome.exe
+Threads: 13
+Parent PID: 19832
+___
+PID: 8664
+Process name: firefox.exe
+Threads: 74
+Parent PID: 23412
+___
+PID: 23344
+Process name: firefox.exe
+Threads: 85
+Parent PID: 8664
+___
+PID: 15304
+Process name: firefox.exe
+Threads: 9
+Parent PID: 8664
+___
+PID: 844
+Process name: firefox.exe
+Threads: 28
+Parent PID: 8664
+___
+PID: 20652
+Process name: firefox.exe
+Threads: 27
+Parent PID: 8664
+___
+PID: 24992
+Process name: firefox.exe
+Threads: 6
+Parent PID: 8664
+___
+PID: 17384
+Process name: firefox.exe
+Threads: 29
+Parent PID: 8664
+___
+PID: 5652
+Process name: firefox.exe
+Threads: 27
+Parent PID: 8664
+___
+PID: 15140
+Process name: firefox.exe
+Threads: 13
+Parent PID: 8664
+___
+PID: 9940
+Process name: firefox.exe
+Threads: 13
+Parent PID: 8664
+___
+PID: 24096
+Process name: firefox.exe
+Threads: 13
+Parent PID: 8664
+___
+PID: 5020
+Process name: SearchProtocolHost.exe
+Threads: 10
+Parent PID: 7092
+___
+PID: 6252
+Process name: SearchFilterHost.exe
+Threads: 7
+Parent PID: 7092
+___
+PID: 16996
+Process name: main.exe
+Threads: 4
+Parent PID: 12336
